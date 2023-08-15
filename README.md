@@ -1,4 +1,6 @@
-# Teachable Machine
+# [Teachable Machine](https://www.guvi.in/test-my-model/2005188994800?course=ai_for_in_en)
+
+For project [click](https://www.guvi.in/test-my-model/2005188994800?course=ai_for_in_en) here.
 
 ![image](https://github.com/thisarakaushan/Teachable-Machine/assets/125348115/65a6aa34-aae0-4fef-a49e-4a94f5f474ec)
 
